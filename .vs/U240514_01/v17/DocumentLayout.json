@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{051D6282-083B-42D3-86CA-1B07AB907C1A}|U240514_01.vcxproj|C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\Pointers_02_Future.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{051D6282-083B-42D3-86CA-1B07AB907C1A}|U240514_01.vcxproj|solutionrelative:Pointers_02_Future.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051D6282-083B-42D3-86CA-1B07AB907C1A}|U240514_01.vcxproj|C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\Pointers_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{051D6282-083B-42D3-86CA-1B07AB907C1A}|U240514_01.vcxproj|solutionrelative:Pointers_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051D6282-083B-42D3-86CA-1B07AB907C1A}|U240514_01.vcxproj|C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\Pointers_01_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{051D6282-083B-42D3-86CA-1B07AB907C1A}|U240514_01.vcxproj|solutionrelative:Pointers_01_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051D6282-083B-42D3-86CA-1B07AB907C1A}|U240514_01.vcxproj|C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\for_if_01_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{051D6282-083B-42D3-86CA-1B07AB907C1A}|U240514_01.vcxproj|solutionrelative:for_if_01_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051D6282-083B-42D3-86CA-1B07AB907C1A}|U240514_01.vcxproj|C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\for_if_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{051D6282-083B-42D3-86CA-1B07AB907C1A}|U240514_01.vcxproj|solutionrelative:for_if_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051D6282-083B-42D3-86CA-1B07AB907C1A}|U240514_01.vcxproj|C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\Pointers_00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{051D6282-083B-42D3-86CA-1B07AB907C1A}|U240514_01.vcxproj|solutionrelative:Pointers_00.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051D6282-083B-42D3-86CA-1B07AB907C1A}|U240514_01.vcxproj|C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\for_if_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{051D6282-083B-42D3-86CA-1B07AB907C1A}|U240514_01.vcxproj|solutionrelative:for_if_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pointers_02_Future.cpp",
+              "DocumentMoniker": "C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\Pointers_02_Future.cpp",
+              "RelativeDocumentMoniker": "Pointers_02_Future.cpp",
+              "ToolTip": "C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\Pointers_02_Future.cpp",
+              "RelativeToolTip": "Pointers_02_Future.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T09:12:37.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pointers_01_test.cpp",
+              "DocumentMoniker": "C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\Pointers_01_test.cpp",
+              "RelativeDocumentMoniker": "Pointers_01_test.cpp",
+              "ToolTip": "C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\Pointers_01_test.cpp",
+              "RelativeToolTip": "Pointers_01_test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T08:47:45.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pointers_01.cpp",
+              "DocumentMoniker": "C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\Pointers_01.cpp",
+              "RelativeDocumentMoniker": "Pointers_01.cpp",
+              "ToolTip": "C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\Pointers_01.cpp",
+              "RelativeToolTip": "Pointers_01.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T08:03:12.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pointers_00.cpp",
+              "DocumentMoniker": "C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\Pointers_00.cpp",
+              "RelativeDocumentMoniker": "Pointers_00.cpp",
+              "ToolTip": "C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\Pointers_00.cpp",
+              "RelativeToolTip": "Pointers_00.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T07:32:08.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "for_if_01_test.cpp",
+              "DocumentMoniker": "C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\for_if_01_test.cpp",
+              "RelativeDocumentMoniker": "for_if_01_test.cpp",
+              "ToolTip": "C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\for_if_01_test.cpp",
+              "RelativeToolTip": "for_if_01_test.cpp",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T06:34:01.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "for_if_01.cpp",
+              "DocumentMoniker": "C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\for_if_01.cpp",
+              "RelativeDocumentMoniker": "for_if_01.cpp",
+              "ToolTip": "C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\for_if_01.cpp",
+              "RelativeToolTip": "for_if_01.cpp",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAcwKUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T05:06:16.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "for_if_02.cpp",
+              "DocumentMoniker": "C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\for_if_02.cpp",
+              "RelativeDocumentMoniker": "for_if_02.cpp",
+              "ToolTip": "C:\\study\\C\u002B\u002B\\study\\24.05.14\\U240514_01\\for_if_02.cpp",
+              "RelativeToolTip": "for_if_02.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T05:31:45.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
