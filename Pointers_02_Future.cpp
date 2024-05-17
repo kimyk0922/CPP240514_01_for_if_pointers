@@ -5,7 +5,7 @@ using namespace std;
 int main()
  {
 
-	int Room[2][2] =				//	[가로][세로]
+	int Room[2][2] =				//	[세로][가로]
 	{								
 		{ 1,2 }, { 3,4 }
 	};
